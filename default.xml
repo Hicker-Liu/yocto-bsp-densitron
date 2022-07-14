@@ -3,7 +3,7 @@
 
   <default sync-j="2"/>
 
-  <remote fetch="https://github.com/Hicker-Liu/yocto-bsp-densitron" name="densitron"/>
+  <remote fetch="https://github.com/Hicker-Liu" name="densitron"/>
   <remote fetch="https://source.codeaurora.org/external/imx" name="CAF"/>
   <remote fetch="https://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="https://github.com/meta-qt5"  name="QT5"/>
